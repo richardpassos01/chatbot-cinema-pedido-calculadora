@@ -1,0 +1,1 @@
+Com base nos algoritimos que os alunos escreveram, resolvi fazer meu sistema de atendimento automatico baseado em coisas que imaginaram.
